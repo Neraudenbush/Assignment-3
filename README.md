@@ -138,6 +138,7 @@ print()
 print('The Cross-validated Mean Squared Error for XGB on cars is : '+str(np.mean(mse_xgb)))
 print('The Cross-validated Mean Absolute Error for XGB on cars is : '+str(np.mean(mae_xgb)))
 ```
+```Markdown
 The Cross-validated Mean Squared Error for LWR on cars is : 17.08303852243322
 The Cross-validated Mean Absolute Error for LWR on cars is : 3.0237011113383008
 
@@ -146,3 +147,4 @@ The Cross-validated Mean Absolute Error for BLWR on cars is : 3.019333643114639
 
 The Cross-validated Mean Squared Error for XGB on cars is : 16.30102036531247
 The Cross-validated Mean Absolute Error for XGB on cars is : 2.9209418791234416
+```
