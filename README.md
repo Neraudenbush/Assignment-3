@@ -1,3 +1,3 @@
 # Assignment-3
-``python
+```Python
 hello
