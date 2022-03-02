@@ -344,7 +344,8 @@ print()
 print('The Cross-validated Mean Squared Error for BLWR on boston housing is : '+str(np.mean(m
 The Cross-validated Mean Squared Error for LWR on boston housing is : 27.18897341969477
 The Cross-validated Mean Absolute Error for LWR on boston housing is : 3.3780805494344435
-
+```
+```Markdown
 The Cross-validated Mean Squared Error for BLWR on boston housing is : 27.042865739061103
 The Cross-validated Mean Absolute Error for BLWR on boston housing is : 3.2968000385784455
 
